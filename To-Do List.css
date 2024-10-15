@@ -1,0 +1,44 @@
+.allText {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(183, 248, 226);
+}
+
+.listLocation {
+    text-align: center;
+    color: rgb(129, 73, 182);
+    font-size: 40px;
+
+}
+
+.toDoThings {
+    font-size: 20px;
+    color: rgb(16, 16, 109);
+    font-size: 30px;
+}
+
+.submitButton {
+    font-size: larger;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.submitButton:hover {
+    background-color: rgb(183, 248, 226);
+}
+
+.addButton {
+    font-size: large;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.addButton:hover {
+    background-color: rgb(183, 248, 226);
+}
+
+.removeButton {
+    font-size: large;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.removeButton:hover {
+    background-color: rgb(183, 248, 226);
+}
